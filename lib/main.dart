@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Devathon",
+      title: "Saylani Devathon",
       //home: ,
       debugShowCheckedModeBanner: false,
       theme: ThemeData(),
