@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919828842770",
+    "project_id": "saylani-devathon-sumit",
+    "storage_bucket": "saylani-devathon-sumit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919828842770:android:f15f0df3d947efa5b3cbcb",
+        "android_client_info": {
+          "package_name": "com.example.expo_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEmsmKxTzIjBMF7amJ1R_7VjvSe4zy_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
