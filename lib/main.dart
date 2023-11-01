@@ -1,4 +1,4 @@
-import 'package:expo_project/Screens/home/screen/home_screen.dart';
+import 'package:expo_project/Screens/Signup/Screens/signup_screen.dart';
 import 'package:flutter/material.dart';
 import 'firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "Saylani Devathon",
-      home: HomeScreen(),
+      home: SignupScreen(),
       debugShowCheckedModeBanner: false,
       theme: ThemeData(),
     );
