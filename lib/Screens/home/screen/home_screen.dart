@@ -16,7 +16,9 @@ class HomeScreen extends StatelessWidget {
                 width: MediaQuery.of(context).size.height * 1,
                 decoration: BoxDecoration(
                     color: purpleColor,
-                    borderRadius: BorderRadius.circular(36)),
+                    borderRadius: BorderRadius.only(
+                        bottomLeft: Radius.circular(36),
+                        bottomRight: Radius.circular(36))),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
